@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,City,MembershipType,TotalSpend,ItemsPurchased,AveragePurchaseValue,DaysSinceLastPurchase,SatisfactionScore,Discount,LatePayments,CouponUsed,AccountAge
+C001,Male,34,New York,Gold,1500.50,20,75.03,10,4,1,0,1,24
+C002,Female,28,Los Angeles,Silver,800.00,10,80.00,45,3,0,1,0,12
+C003,Male,45,Chicago,Bronze,300.00,5,60.00,90,2,0,0,0,6
+C004,Female,52,Houston,Gold,2200.75,30,73.36,5,5,1,0,1,36
+C005,Male,23,Phoenix,Bronze,150.00,3,50.00,120,1,0,2,0,3
+C006,Female,31,Philadelphia,Silver,950.00,12,79.17,30,4,1,0,1,18
+C007,Male,40,San Antonio,Gold,1800.00,25,72.00,15,5,1,0,1,30
+C008,Female,27,San Diego,Bronze,200.00,4,50.00,100,2,0,1,0,4
+C009,Male,36,Dallas,Silver,1100.00,14,78.57,20,3,0,0,0,15
+C010,Female,48,San Jose,Gold,2500.00,35,71.43,3,5,1,0,1,42
+C011,Male,29,Austin,Bronze,250.00,5,50.00,80,2,0,0,0,5
+C012,Female,33,Jacksonville,Silver,870.00,11,79.09,35,3,1,0,0,14
+C013,Male,55,Fort Worth,Gold,3000.00,40,75.00,2,5,1,0,1,48
+C014,Female,22,Columbus,Bronze,100.00,2,50.00,150,1,0,3,0,2
+C015,Male,38,Charlotte,Silver,1050.00,13,80.77,25,4,0,0,1,16
+C016,Female,44,Indianapolis,Gold,1950.00,27,72.22,8,5,1,0,1,32
+C017,Male,26,San Francisco,Bronze,180.00,3,60.00,110,2,0,1,0,3
+C018,Female,50,Seattle,Gold,2100.00,28,75.00,7,4,1,0,1,38
+C019,Male,35,Denver,Silver,920.00,12,76.67,28,3,0,0,0,13
+C020,Female,41,Nashville,Bronze,280.00,5,56.00,75,2,0,0,0,7
