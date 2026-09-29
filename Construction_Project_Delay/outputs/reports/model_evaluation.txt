@@ -1,0 +1,17 @@
+Random Forest Model Evaluation
+========================================
+Accuracy: 1.0000 (100.00%)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    On Track       1.00      1.00      1.00        10
+     Delayed       1.00      1.00      1.00        10
+
+    accuracy                           1.00        20
+   macro avg       1.00      1.00      1.00        20
+weighted avg       1.00      1.00      1.00        20
+
+Confusion Matrix:
+[[10  0]
+ [ 0 10]]

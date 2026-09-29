@@ -1,0 +1,5 @@
+Project_Category,Avg_Gap,Delay_Rate,Avg_Budget,Count
+Industrial,16.64,1.0,5956000.0,25
+Commercial,14.68,1.0,4062000.0,25
+Infrastructure,2.12,0.0,5798000.0,25
+Residential,1.92,0.0,705600.0,25

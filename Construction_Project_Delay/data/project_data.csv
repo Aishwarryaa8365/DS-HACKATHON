@@ -1,0 +1,101 @@
+Project_ID,Project_Category,Project_Size,Budget,Workforce,Material_Delivery,Weather,Contractor,Milestone,Planned_Progress,Actual_Progress
+P001,Residential,Small,500000,25,On Time,Clear,ContractorA,Foundation,30,28
+P002,Commercial,Large,5000000,120,Delayed,Rainy,ContractorB,Structural,50,38
+P003,Infrastructure,Medium,2000000,60,On Time,Clear,ContractorC,Finishing,80,75
+P004,Industrial,Large,8000000,200,Delayed,Stormy,ContractorD,Structural,45,30
+P005,Residential,Small,450000,20,On Time,Clear,ContractorA,Foundation,25,24
+P006,Commercial,Medium,3000000,80,Delayed,Rainy,ContractorB,Finishing,70,55
+P007,Infrastructure,Large,10000000,250,On Time,Clear,ContractorC,Structural,60,58
+P008,Industrial,Medium,4000000,100,Delayed,Stormy,ContractorD,Foundation,35,20
+P009,Residential,Medium,800000,35,On Time,Clear,ContractorA,Finishing,90,88
+P010,Commercial,Large,6000000,150,Delayed,Rainy,ContractorB,Structural,55,40
+P011,Infrastructure,Small,1500000,45,On Time,Clear,ContractorC,Foundation,20,19
+P012,Industrial,Large,9000000,220,Delayed,Stormy,ContractorD,Finishing,75,55
+P013,Residential,Small,520000,22,On Time,Clear,ContractorA,Structural,40,38
+P014,Commercial,Medium,2800000,75,Delayed,Rainy,ContractorB,Foundation,30,18
+P015,Infrastructure,Large,12000000,300,On Time,Clear,ContractorC,Finishing,85,82
+P016,Industrial,Small,1000000,30,Delayed,Stormy,ContractorD,Structural,50,35
+P017,Residential,Medium,750000,32,On Time,Clear,ContractorA,Foundation,28,26
+P018,Commercial,Large,7000000,180,Delayed,Rainy,ContractorB,Finishing,65,48
+P019,Infrastructure,Medium,2500000,65,On Time,Clear,ContractorC,Structural,55,53
+P020,Industrial,Large,11000000,280,Delayed,Stormy,ContractorD,Foundation,40,22
+P021,Residential,Small,480000,18,On Time,Clear,ContractorA,Finishing,95,93
+P022,Commercial,Medium,3200000,85,Delayed,Rainy,ContractorB,Structural,60,44
+P023,Infrastructure,Large,9500000,240,On Time,Clear,ContractorC,Foundation,22,21
+P024,Industrial,Medium,4500000,110,Delayed,Stormy,ContractorD,Finishing,80,62
+P025,Residential,Large,1200000,50,On Time,Clear,ContractorA,Structural,45,43
+P026,Commercial,Small,1800000,55,Delayed,Rainy,ContractorB,Foundation,35,22
+P027,Infrastructure,Medium,2200000,58,On Time,Clear,ContractorC,Finishing,88,85
+P028,Industrial,Large,8500000,210,Delayed,Stormy,ContractorD,Structural,52,36
+P029,Residential,Small,510000,21,On Time,Clear,ContractorA,Foundation,32,30
+P030,Commercial,Large,5500000,140,Delayed,Rainy,ContractorB,Finishing,72,56
+P031,Infrastructure,Small,1600000,42,On Time,Clear,ContractorC,Structural,48,46
+P032,Industrial,Medium,3800000,95,Delayed,Stormy,ContractorD,Foundation,38,24
+P033,Residential,Medium,820000,38,On Time,Clear,ContractorA,Finishing,92,90
+P034,Commercial,Large,6500000,160,Delayed,Rainy,ContractorB,Structural,58,42
+P035,Infrastructure,Large,11500000,290,On Time,Clear,ContractorC,Foundation,18,17
+P036,Industrial,Small,1100000,28,Delayed,Stormy,ContractorD,Finishing,78,60
+P037,Residential,Small,490000,19,On Time,Clear,ContractorA,Structural,42,40
+P038,Commercial,Medium,2900000,78,Delayed,Rainy,ContractorB,Foundation,28,16
+P039,Infrastructure,Medium,2300000,62,On Time,Clear,ContractorC,Finishing,82,79
+P040,Industrial,Large,10500000,270,Delayed,Stormy,ContractorD,Structural,48,30
+P041,Residential,Large,1100000,48,On Time,Clear,ContractorA,Foundation,26,25
+P042,Commercial,Small,1700000,52,Delayed,Rainy,ContractorB,Finishing,68,52
+P043,Infrastructure,Large,9800000,245,On Time,Clear,ContractorC,Structural,62,60
+P044,Industrial,Medium,4200000,105,Delayed,Stormy,ContractorD,Foundation,36,21
+P045,Residential,Small,530000,23,On Time,Clear,ContractorA,Finishing,96,94
+P046,Commercial,Large,5800000,145,Delayed,Rainy,ContractorB,Structural,54,38
+P047,Infrastructure,Small,1400000,40,On Time,Clear,ContractorC,Foundation,24,23
+P048,Industrial,Large,8800000,215,Delayed,Stormy,ContractorD,Finishing,76,57
+P049,Residential,Medium,780000,34,On Time,Clear,ContractorA,Structural,44,42
+P050,Commercial,Medium,3100000,82,Delayed,Rainy,ContractorB,Foundation,32,20
+P051,Infrastructure,Large,10200000,255,On Time,Clear,ContractorC,Finishing,86,83
+P052,Industrial,Small,950000,27,Delayed,Stormy,ContractorD,Structural,46,31
+P053,Residential,Small,470000,17,On Time,Clear,ContractorA,Foundation,29,27
+P054,Commercial,Large,6200000,155,Delayed,Rainy,ContractorB,Finishing,66,50
+P055,Infrastructure,Medium,2400000,63,On Time,Clear,ContractorC,Structural,56,54
+P056,Industrial,Large,9200000,225,Delayed,Stormy,ContractorD,Foundation,42,26
+P057,Residential,Large,1300000,52,On Time,Clear,ContractorA,Finishing,94,92
+P058,Commercial,Small,1900000,57,Delayed,Rainy,ContractorB,Structural,62,46
+P059,Infrastructure,Large,11800000,295,On Time,Clear,ContractorC,Foundation,20,19
+P060,Industrial,Medium,4100000,102,Delayed,Stormy,ContractorD,Finishing,82,64
+P061,Residential,Small,500000,20,On Time,Clear,ContractorA,Structural,38,36
+P062,Commercial,Medium,3000000,80,Delayed,Rainy,ContractorB,Foundation,34,21
+P063,Infrastructure,Medium,2100000,57,On Time,Clear,ContractorC,Finishing,84,81
+P064,Industrial,Large,8200000,205,Delayed,Stormy,ContractorD,Structural,50,33
+P065,Residential,Small,460000,16,On Time,Clear,ContractorA,Foundation,27,25
+P066,Commercial,Large,5200000,130,Delayed,Rainy,ContractorB,Finishing,70,53
+P067,Infrastructure,Small,1550000,43,On Time,Clear,ContractorC,Structural,52,50
+P068,Industrial,Medium,3900000,98,Delayed,Stormy,ContractorD,Foundation,40,25
+P069,Residential,Medium,810000,36,On Time,Clear,ContractorA,Finishing,91,89
+P070,Commercial,Large,6800000,170,Delayed,Rainy,ContractorB,Structural,56,40
+P071,Infrastructure,Large,10800000,265,On Time,Clear,ContractorC,Foundation,16,15
+P072,Industrial,Small,1050000,29,Delayed,Stormy,ContractorD,Finishing,74,56
+P073,Residential,Small,515000,22,On Time,Clear,ContractorA,Structural,41,39
+P074,Commercial,Medium,2700000,73,Delayed,Rainy,ContractorB,Foundation,30,18
+P075,Infrastructure,Large,9600000,242,On Time,Clear,ContractorC,Finishing,87,84
+P076,Industrial,Large,10800000,275,Delayed,Stormy,ContractorD,Structural,54,37
+P077,Residential,Large,1150000,49,On Time,Clear,ContractorA,Foundation,31,29
+P078,Commercial,Small,1650000,50,Delayed,Rainy,ContractorB,Finishing,64,48
+P079,Infrastructure,Medium,2350000,61,On Time,Clear,ContractorC,Structural,58,56
+P080,Industrial,Large,8600000,212,Delayed,Stormy,ContractorD,Foundation,44,28
+P081,Residential,Small,485000,18,On Time,Clear,ContractorA,Finishing,97,95
+P082,Commercial,Large,5600000,142,Delayed,Rainy,ContractorB,Structural,52,36
+P083,Infrastructure,Small,1450000,41,On Time,Clear,ContractorC,Foundation,26,25
+P084,Industrial,Medium,4300000,107,Delayed,Stormy,ContractorD,Finishing,79,61
+P085,Residential,Medium,790000,35,On Time,Clear,ContractorA,Structural,43,41
+P086,Commercial,Medium,3300000,87,Delayed,Rainy,ContractorB,Foundation,36,23
+P087,Infrastructure,Large,10500000,260,On Time,Clear,ContractorC,Finishing,89,86
+P088,Industrial,Small,900000,26,Delayed,Stormy,ContractorD,Structural,47,32
+P089,Residential,Small,505000,21,On Time,Clear,ContractorA,Foundation,33,31
+P090,Commercial,Large,6300000,158,Delayed,Rainy,ContractorB,Finishing,67,51
+P091,Infrastructure,Medium,2450000,64,On Time,Clear,ContractorC,Structural,59,57
+P092,Industrial,Large,9400000,230,Delayed,Stormy,ContractorD,Foundation,37,22
+P093,Residential,Large,1250000,51,On Time,Clear,ContractorA,Finishing,93,91
+P094,Commercial,Small,1750000,53,Delayed,Rainy,ContractorB,Structural,61,45
+P095,Infrastructure,Large,11200000,285,On Time,Clear,ContractorC,Foundation,19,18
+P096,Industrial,Medium,4000000,100,Delayed,Stormy,ContractorD,Finishing,81,63
+P097,Residential,Small,475000,17,On Time,Clear,ContractorA,Structural,39,37
+P098,Commercial,Medium,2850000,76,Delayed,Rainy,ContractorB,Foundation,31,19
+P099,Infrastructure,Medium,2250000,59,On Time,Clear,ContractorC,Finishing,83,80
+P100,Industrial,Large,9100000,222,Delayed,Stormy,ContractorD,Structural,49,32
